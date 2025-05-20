@@ -1,6 +1,13 @@
-# Nuxt Minimal Starter
+# sakha native alphabet transliterator
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+simplte site for generate transliterator text from cyrillic to sakha native lang
+Новгородов, Семён Андреевич
+
+## sources
+
+graph symbols take from https://github.com/ogpetrov/sakha-nlp
+idea get from https://github.com/varie/sakha-transliterator
+
 
 ## Setup
 
