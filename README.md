@@ -5,8 +5,8 @@ simplte site for generate transliterator text from cyrillic to sakha native lang
 
 ## sources
 
-graph symbols take from https://github.com/ogpetrov/sakha-nlp
-idea get from https://github.com/varie/sakha-transliterator
+- graph symbols take from https://github.com/ogpetrov/sakha-nlp
+- idea get from https://github.com/varie/sakha-transliterator
 
 
 ## Setup
