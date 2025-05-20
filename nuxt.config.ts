@@ -10,8 +10,8 @@ export default defineNuxtConfig({
 			charset: 'utf-8',
 			viewport: 'width=device-width, initial-scale=1',
 		},
-		// for static deploy gh-pages
-		baseURL: '/nuxt-transition-pages/',
+		// for static deploy gh-pages required repo name for baseURL == 'sakha-alphabet'
+		baseURL: '/sakha-alphabet/',
 		buildAssetsDir: 'assets',
 	},
 
